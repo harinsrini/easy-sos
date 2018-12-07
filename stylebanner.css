@@ -69,33 +69,33 @@ margin-left: 150px;
 .banner{
 	margin-top: : 10px;
 	position: absolute;
-	
+
 }
 
 
 .banner-sos{
 width: 300px;
 height: 300px;
-background: url(Image/tel.jpg);
+background: url(image/tel.jpg);
 background-size: 300px 300px;
 border-color: #61EAC1;
 }
 .banner-food{
 width: 300px;
 height: 300px;
-background: url(Image/food.jpg);
+background: url(image/food.jpg);
 background-size: 300px 300px;
 }
 .banner-friends{
 width: 300px;
 height: 300px;
-background: url(Image/friends.jpg);
+background: url(image/friends.jpg);
 background-size: 300px 300px;
 }
 .banner-events{
 width: 300px;
 height: 300px;
-background: url(Image/events.jpg);
+background: url(image/events.jpg);
 background-size: 300px 300px;
 }
 .food{
