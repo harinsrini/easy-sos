@@ -76,26 +76,26 @@ margin-left: 150px;
 .banner-sos{
 width: 300px;
 height: 300px;
-background: url(image/tel.jpg);
+background: url('https://github.com/harinsrini/easy-sos/blob/master/image/tel.JPG?raw=true');
 background-size: 300px 300px;
 border-color: #61EAC1;
 }
 .banner-food{
 width: 300px;
 height: 300px;
-background: url(image/food.jpg);
+background: url('https://github.com/harinsrini/easy-sos/blob/master/image/food.JPG?raw=true');
 background-size: 300px 300px;
 }
 .banner-friends{
 width: 300px;
 height: 300px;
-background: url(image/friends.jpg);
+background: url('https://github.com/harinsrini/easy-sos/blob/master/image/friends.JPG?raw=true');
 background-size: 300px 300px;
 }
 .banner-events{
 width: 300px;
 height: 300px;
-background: url(image/events.jpg);
+background: url('https://github.com/harinsrini/easy-sos/blob/master/image/events.JPG?raw=true');
 background-size: 300px 300px;
 }
 .food{
